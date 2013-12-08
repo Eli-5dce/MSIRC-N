@@ -1,5 +1,9 @@
 [Activity]
+<<<<<<< HEAD
 name = MSIRC
+=======
+name = MS-IRC
+>>>>>>> 968ec7f908b825bb27eabddaa042c6b0431a1e22
 activity_version = 1
 bundle_id = org.sugarlabs.MyActivity
 exec = sugar-activity-web
